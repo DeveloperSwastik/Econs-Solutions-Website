@@ -895,7 +895,14 @@ body {
     }
 
     .intro--banner h1 {
-        margin-top: 0
+        margin-top: 0;
+        font-size: 40px;
+    }
+    .intro--options h3 {
+        font-size: 14px;
+    }
+    .intro--options p {
+        font-size: 12px;
     }
 
     /* .intro--options {
@@ -1334,7 +1341,7 @@ body {
 
     .about--banner h2 {
         margin-top: 0;
-        font-size: 55px
+        font-size: 45px
     }
 
     .about--banner h2::before {
@@ -1345,6 +1352,10 @@ body {
     .about--banner h2::after {
         top: 205px;
         left: 205px
+    }
+
+    .about--options h3{
+        font-size: 12px;
     }
 
     /* .about--banner img {
