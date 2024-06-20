@@ -404,7 +404,7 @@ body {
     text-align: center
 }
 
-@media (max-width: 767px) and (min-width: 601px) and (max-height: 680px) {
+/* @media (max-width: 767px) and (min-width: 601px) and (max-height: 680px) {
     .device-notification {
         display: -webkit-box;
         display: -webkit-flex;
@@ -438,7 +438,7 @@ body {
         display: -ms-flexbox;
         display: flex
     }
-}
+} */
 
 .section {
     opacity: 0;
